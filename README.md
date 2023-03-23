@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**MySQL**](https://codecrashers.nl/cursussen/mysql) cursus van CodeCrashers.
+Deze repository correspondeert met de [**MySQL**](https://codecrashers.nl/lesmateriaal/mysql) cursus van CodeCrashers.
 
 ---
 
